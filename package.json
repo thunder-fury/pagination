@@ -1,0 +1,28 @@
+{
+  "name": "@thunder_fury/pagination",
+  "version": "0.0.1",
+  "description": "The start page and the end page total page total page is a function that returns the current page arrangement.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "dev": "npx tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thunder-fury/pagination.git"
+  },
+  "keywords": [
+    "pagination",
+    "pagenation"
+  ],
+  "author": "thunder-fury <whw3312@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thunder-fury/pagination/issues"
+  },
+  "homepage": "https://github.com/thunder-fury/pagination#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
