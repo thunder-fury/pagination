@@ -1,5 +1,1 @@
-export class PageNation {
-  constructor() {
-
-  }
-}
+export class PageNation {}
